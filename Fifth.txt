@@ -1,5 +1,4 @@
 Fifth version
-<<<<<<< HEAD
-=======
+
 line for Bugfix
->>>>>>> Bugfix
+
